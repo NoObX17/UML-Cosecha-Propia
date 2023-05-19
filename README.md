@@ -11,5 +11,5 @@ Debes crear un diagrama de clases UML que incluya al menos estas 8 clases difere
 - El vendedor redacta la factura aplicando un descuento obligatorio de un 5%. La factura debe contener el importe, y después el importe final con el descuento aplicado.
 
 ### Solución
-![solucion](solucion.png)
+![solucion](diagramacosecha.png)
 
