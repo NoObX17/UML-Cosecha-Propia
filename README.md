@@ -9,3 +9,7 @@ Debes crear un diagrama de clases UML que incluya al menos estas 8 clases difere
 - Tanto para los clientes como para los vendedores se necesita saber el DNI, el nombre y los apellidos.
 - Un cliente va al concesionario y puede comprar un coche a un vendedor, por tanto un vendedor tiene asociado un cliente.
 - El vendedor redacta la factura aplicando un descuento obligatorio de un 5%. La factura debe contener el importe, y después el importe final con el descuento aplicado.
+
+### Solución
+![solucion](solucion.png)
+
