@@ -12,5 +12,5 @@ Debes crear un diagrama de clases UML que cumpla con los siguientes puntos:
 - El vendedor tiene que poder crear, modificar y eliminar la factura aplicando un descuento obligatorio de un 5%. La factura debe contener el importe, y después el importe final con el descuento aplicado.
 
 ### Solución
-![solucionfinal](diagramacosecha.png)
+![solucionfinal](soldiagrama.png)
 
